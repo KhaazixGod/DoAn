@@ -1,1 +1,4 @@
-/arena_metrics
+/arena_metrics/
+/arena_mectrics/
+__pycache__/
+*.pyc
